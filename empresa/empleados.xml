@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="estilos.css"?>
+
+<empleados>
+    <empleado id='1' class= "Pantera">
+        <nombre>Julia</nombre>
+        <apellido>Otero</apellido>
+        <departamento>Comunicacion</departamento>
+        <salario-container> 
+        <salario>5000</salario>
+        <fecha_nac>07/05/1983</fecha_nac>
+        </salario-container>
+    </empleado>
+     <empleado id='2'>
+        <nombre>Pablo</nombre>
+        <apellido>Coche</apellido>
+        <departamento>Mantenimiento</departamento>
+        <salario-container>
+        <salario>1002</salario>
+        <fecha_nac>13/07/1972</fecha_nac>
+        </salario-container>
+    </empleado>
+    <empleado id='3'>
+        <nombre>Cira</nombre>
+        <apellido>Sanchez</apellido>
+        <departamento>Ventas</departamento>
+        <salario-container>
+        <salario>6000</salario>
+        <fecha_nac>01/11/1987</fecha_nac>
+        </salario-container>
+    </empleado>
+     <empleado id='4'>
+        <nombre>Mariano</nombre>
+        <apellido>Nuñez</apellido>
+        <departamento> Marketing</departamento>
+        <salario-container>
+        <salario>3000</salario>
+        <fecha_nac>31/05/1989</fecha_nac>
+        </salario-container>
+    </empleado> 
+    <empleado id='5'>
+        <nombre>Citripio</nombre>
+        <apellido>Pascual</apellido>
+        <departamento>Mantenimiento</departamento>
+        <salario-container>
+        <salario>1002</salario>
+        <fecha_nac>08/06/1996</fecha_nac>
+        </salario-container>
+    </empleado>
+     <empleado id='6'>
+        <nombre>Olivia</nombre>
+        <apellido>Newton</apellido>
+        <departamento>Contabilidad</departamento>
+        <salario-container>
+        <salario>3000</salario>
+        <fecha_nac>02/07/1984</fecha_nac>
+        </salario-container>
+    </empleado>
+     <empleado id='7'>
+        <nombre>Micaela</nombre>
+        <apellido>Rojas</apellido>
+        <departamento>Ventas</departamento> 
+        <salario-container>
+        <salario>1500</salario>
+        <fecha_nac>03/07/1983</fecha_nac>
+        </salario-container>
+    </empleado>
+    
+    </empleados>
+    
